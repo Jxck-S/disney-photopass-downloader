@@ -1,0 +1,439 @@
+{
+    "ads": {
+        "entitlementBannerType": "memory-maker"
+    },
+    "metaData": {
+        "mlids": [],
+        "resorts": [
+            "The Walt Disney World Resort"
+        ],
+        "parks": [
+            "Disney's Polynesian Village Resort"
+        ],
+        "encounters": [
+            "d635b68d-0c2d-47a1-92dd-03908a8beceb",
+            "dea60d03-9be7-4e90-925b-54d0a831b638"
+        ],
+        "responseTime": 0,
+        "lastCapture": "2025-07-25T00:00:00Z",
+        "expiredMediaCount": 0,
+        "hasOwnedMedia": false,
+        "captureYourMoment": false,
+        "memoryMakerPromo": false
+    },
+    "guestMedia": {
+        "encounters": [
+            {
+                "origPark": "BOARDWALK",
+                "encounterName": "Disney's Polynesian Village Resort",
+                "encounterId": "d635b68d-0c2d-47a1-92dd-03908a8beceb",
+                "continent": "NA",
+                "resort": "The Walt Disney World Resort",
+                "park": "Disney's Polynesian Village Resort",
+                "attraction": "Disney's Polynesian Village Resort",
+                "attractionId": 65900,
+                "encounterCount": 3,
+                "encounterEtag": "18ffe30daf8b4ba9a67c25a181921c82",
+                "mediaList": [
+                    {
+                        "mediaId": "7661706275",
+                        "guestMediaId": 9408660114,
+                        "mediaCategory": "ROVER",
+                        "mediaType": "PICTURE",
+                        "captureDate": "2025-08-12T00:00:00Z",
+                        "expirationDate": "2026-03-29T00:00:00Z",
+                        "ownedBy": null,
+                        "guestEntitledToMedia": false,
+                        "showInProductBuilder": false,
+                        "favorite": false,
+                        "hide": false,
+                        "mimeType": "image/jpeg",
+                        "subjects": [
+                            "Goofy",
+                            "Donald Duck",
+                            "Pluto"
+                        ],
+                        "mediaThumb": {
+                            "uri": "https://wdw-photopass-media-prod.s3.amazonaws.com/d635b68d-0c2d-47a1-92dd-03908a8beceb/41627330076983-44149364-20250116T000000-460335-DSC4086_thumb_wm.JPG?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20260216T184041Z&X-Amz-SignedHeaders=host&X-Amz-Expires=14400&X-Amz-Credential=PGS4H2S40OPS9OTYQMXY%2F20260217%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=011c58ed781e1d2d6b4e9275c92be87e15f1cca1e9ceb7e9e3fce4b57b4caaff",
+                            "analyticsUri": "",
+                            "width": 300,
+                            "height": 200,
+                            "renditionType": "thumb_wm"
+                        },
+                        "mediaMedium": {
+                            "uri": "https://wdw-photopass-media-prod.s3.amazonaws.com/d635b68d-0c2d-47a1-92dd-03908a8beceb/11386698650990-75592358-20260411T000000-908455-DSC5912_medium_wm.JPG?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20260216T184041Z&X-Amz-SignedHeaders=host&X-Amz-Expires=14400&X-Amz-Credential=JGSFSTM6GBDND52UKMMT%2F20260217%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=ffbe452ef39dd780c54369d29eae92c1303cdd23e33c10f8286ed1135783a049",
+                            "analyticsUri": "",
+                            "width": 1280,
+                            "height": 853,
+                            "renditionType": "medium_wm"
+                        },
+                        "mediaBase": null,
+                        "guestMediaModifiedDate": "2026-08-08T00:00:00Z",
+                        "artCardThumb": null,
+                        "artCardMedium": null,
+                        "mlid": []
+                    },
+                    {
+                        "mediaId": "0066195549",
+                        "guestMediaId": 6804043779,
+                        "mediaCategory": "ROVER",
+                        "mediaType": "PICTURE",
+                        "captureDate": "2026-05-28T00:00:00Z",
+                        "expirationDate": "2025-05-28T00:00:00Z",
+                        "ownedBy": null,
+                        "guestEntitledToMedia": false,
+                        "showInProductBuilder": false,
+                        "favorite": false,
+                        "hide": false,
+                        "mimeType": "image/jpeg",
+                        "subjects": [
+                            "Goofy",
+                            "Donald Duck",
+                            "Pluto"
+                        ],
+                        "mediaThumb": {
+                            "uri": "https://wdw-photopass-media-prod.s3.amazonaws.com/d635b68d-0c2d-47a1-92dd-03908a8beceb/90541650634575-20754168-20260128T000000-632919-DSC6733_thumb_wm.JPG?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20260216T184041Z&X-Amz-SignedHeaders=host&X-Amz-Expires=14400&X-Amz-Credential=NO319TXEFF84FZ3NVSQI%2F20260217%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=b5d4fca72dcabe4d0759fe08fd81c22ac6772180db3af071d3d466e906c7da63",
+                            "analyticsUri": "",
+                            "width": 300,
+                            "height": 200,
+                            "renditionType": "thumb_wm"
+                        },
+                        "mediaMedium": {
+                            "uri": "https://wdw-photopass-media-prod.s3.amazonaws.com/d635b68d-0c2d-47a1-92dd-03908a8beceb/06704479529233-73845439-20260406T000000-017028-DSC0305_medium_wm.JPG?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20260216T184041Z&X-Amz-SignedHeaders=host&X-Amz-Expires=14400&X-Amz-Credential=K2LISMVD64I3C2OU8Q9Y%2F20260217%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=f0a543ad2766baad83feb8ceee2786820ed327130960d0116c94227f3d594037",
+                            "analyticsUri": "",
+                            "width": 1280,
+                            "height": 853,
+                            "renditionType": "medium_wm"
+                        },
+                        "mediaBase": null,
+                        "guestMediaModifiedDate": "2026-12-08T00:00:00Z",
+                        "artCardThumb": null,
+                        "artCardMedium": null,
+                        "mlid": []
+                    },
+                    {
+                        "mediaId": "6631222412",
+                        "guestMediaId": 5904389048,
+                        "mediaCategory": "ROVER",
+                        "mediaType": "PICTURE",
+                        "captureDate": "2025-06-10T00:00:00Z",
+                        "expirationDate": "2025-11-11T00:00:00Z",
+                        "ownedBy": null,
+                        "guestEntitledToMedia": false,
+                        "showInProductBuilder": false,
+                        "favorite": false,
+                        "hide": false,
+                        "mimeType": "image/jpeg",
+                        "subjects": [
+                            "Goofy",
+                            "Donald Duck",
+                            "Pluto"
+                        ],
+                        "mediaThumb": {
+                            "uri": "https://wdw-photopass-media-prod.s3.amazonaws.com/d635b68d-0c2d-47a1-92dd-03908a8beceb/29872828332850-10144977-20260128T000000-341956-DSC8656_thumb_wm.JPG?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20260216T184041Z&X-Amz-SignedHeaders=host&X-Amz-Expires=14400&X-Amz-Credential=4B2LSPUOUYXYQDEZMQTA%2F20260217%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=f285d0da0ab243577779e6869469770876cad84330ffe6a16d3e341efc15e2c0",
+                            "analyticsUri": "",
+                            "width": 300,
+                            "height": 200,
+                            "renditionType": "thumb_wm"
+                        },
+                        "mediaMedium": {
+                            "uri": "https://wdw-photopass-media-prod.s3.amazonaws.com/d635b68d-0c2d-47a1-92dd-03908a8beceb/77595616911820-76974656-20250611T000000-348291-DSC3287_medium_wm.JPG?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20260216T184041Z&X-Amz-SignedHeaders=host&X-Amz-Expires=14400&X-Amz-Credential=W20VVLMOQS3TNC5QC2ZS%2F20260217%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=b7cb3dc4bed1861444c59fdc1aaef9e7da8b749367df6df9f4bfeac847214a67",
+                            "analyticsUri": "",
+                            "width": 1280,
+                            "height": 853,
+                            "renditionType": "medium_wm"
+                        },
+                        "mediaBase": null,
+                        "guestMediaModifiedDate": "2025-12-02T00:00:00Z",
+                        "artCardThumb": null,
+                        "artCardMedium": null,
+                        "mlid": []
+                    }
+                ]
+            },
+            {
+                "origPark": "BOARDWALK",
+                "encounterName": "Disney's Polynesian Village Resort",
+                "encounterId": "dea60d03-9be7-4e90-925b-54d0a831b638",
+                "continent": "NA",
+                "resort": "The Walt Disney World Resort",
+                "park": "Disney's Polynesian Village Resort",
+                "attraction": "Disney's Polynesian Village Resort",
+                "attractionId": 65900,
+                "encounterCount": 7,
+                "encounterEtag": "2113cd5f9b7e82e5cef4a6de4498bece",
+                "mediaList": [
+                    {
+                        "mediaId": "9727509816",
+                        "guestMediaId": 6800739398,
+                        "mediaCategory": "ROVER",
+                        "mediaType": "PICTURE",
+                        "captureDate": "2025-07-14T00:00:00Z",
+                        "expirationDate": "2025-02-10T00:00:00Z",
+                        "ownedBy": null,
+                        "guestEntitledToMedia": false,
+                        "showInProductBuilder": false,
+                        "favorite": false,
+                        "hide": false,
+                        "mimeType": "image/jpeg",
+                        "subjects": [
+                            "Goofy",
+                            "Donald Duck",
+                            "Pluto"
+                        ],
+                        "mediaThumb": {
+                            "uri": "https://wdw-photopass-media-prod.s3.amazonaws.com/dea60d03-9be7-4e90-925b-54d0a831b638/27120941021124-35160387-20260731T000000-090509-DSC4261_thumb_wm.JPG?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20260216T184041Z&X-Amz-SignedHeaders=host&X-Amz-Expires=14400&X-Amz-Credential=NNO5GHS021P87IVV7JYA%2F20260217%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=ce61c9a6f22d0ca7bece2cb8ec0236dc42e883c09027e46d9e4109ed92e98c6c",
+                            "analyticsUri": "",
+                            "width": 200,
+                            "height": 300,
+                            "renditionType": "thumb_wm"
+                        },
+                        "mediaMedium": {
+                            "uri": "https://wdw-photopass-media-prod.s3.amazonaws.com/dea60d03-9be7-4e90-925b-54d0a831b638/97313142376053-79149463-20251229T000000-284828-DSC1326_medium_wm.JPG?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20260216T184041Z&X-Amz-SignedHeaders=host&X-Amz-Expires=14400&X-Amz-Credential=K42AFC1AD3GPUBOSOXQX%2F20260217%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=85b9e9ba35999f77388df9dce849f5e6059cf1355eceab7f02498ae89f815365",
+                            "analyticsUri": "",
+                            "width": 853,
+                            "height": 1280,
+                            "renditionType": "medium_wm"
+                        },
+                        "mediaBase": null,
+                        "guestMediaModifiedDate": "2025-09-06T00:00:00Z",
+                        "artCardThumb": null,
+                        "artCardMedium": null,
+                        "mlid": []
+                    },
+                    {
+                        "mediaId": "2257004643",
+                        "guestMediaId": 5992055680,
+                        "mediaCategory": "ROVER",
+                        "mediaType": "PICTURE",
+                        "captureDate": "2026-10-03T00:00:00Z",
+                        "expirationDate": "2026-02-17T00:00:00Z",
+                        "ownedBy": null,
+                        "guestEntitledToMedia": false,
+                        "showInProductBuilder": false,
+                        "favorite": false,
+                        "hide": false,
+                        "mimeType": "image/jpeg",
+                        "subjects": [
+                            "Goofy",
+                            "Donald Duck",
+                            "Pluto"
+                        ],
+                        "mediaThumb": {
+                            "uri": "https://wdw-photopass-media-prod.s3.amazonaws.com/dea60d03-9be7-4e90-925b-54d0a831b638/16343262862820-61563611-20261116T000000-198465-DSC9735_thumb_wm.JPG?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20260216T184041Z&X-Amz-SignedHeaders=host&X-Amz-Expires=14400&X-Amz-Credential=0P7NSUHI6EPIC50FH00C%2F20260217%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=7204cd3d5c0dedf5d503e3802ebb8a172058af5da1609c1a2132b8140db0ff7c",
+                            "analyticsUri": "",
+                            "width": 200,
+                            "height": 300,
+                            "renditionType": "thumb_wm"
+                        },
+                        "mediaMedium": {
+                            "uri": "https://wdw-photopass-media-prod.s3.amazonaws.com/dea60d03-9be7-4e90-925b-54d0a831b638/67681021865414-35713243-20261208T000000-778327-DSC6638_medium_wm.JPG?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20260216T184041Z&X-Amz-SignedHeaders=host&X-Amz-Expires=14400&X-Amz-Credential=K1167GCDZ4YX9X7ERHQC%2F20260217%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=6eb9446c3425d21a433f5385c83c410840a99127d3601333073170c5329012bb",
+                            "analyticsUri": "",
+                            "width": 853,
+                            "height": 1280,
+                            "renditionType": "medium_wm"
+                        },
+                        "mediaBase": null,
+                        "guestMediaModifiedDate": "2025-10-06T00:00:00Z",
+                        "artCardThumb": null,
+                        "artCardMedium": null,
+                        "mlid": []
+                    },
+                    {
+                        "mediaId": "3400933017",
+                        "guestMediaId": 4788268018,
+                        "mediaCategory": "ROVER",
+                        "mediaType": "PICTURE",
+                        "captureDate": "2026-07-14T00:00:00Z",
+                        "expirationDate": "2025-07-17T00:00:00Z",
+                        "ownedBy": null,
+                        "guestEntitledToMedia": false,
+                        "showInProductBuilder": false,
+                        "favorite": false,
+                        "hide": false,
+                        "mimeType": "image/jpeg",
+                        "subjects": [
+                            "Goofy",
+                            "Donald Duck",
+                            "Pluto"
+                        ],
+                        "mediaThumb": {
+                            "uri": "https://wdw-photopass-media-prod.s3.amazonaws.com/dea60d03-9be7-4e90-925b-54d0a831b638/43163077739117-03445017-20260714T000000-725245-DSC5886_thumb_wm.JPG?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20260216T184041Z&X-Amz-SignedHeaders=host&X-Amz-Expires=14400&X-Amz-Credential=Q88GXJ1Q83MNE8M66HF0%2F20260217%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=a6c8086c25ade876a245acee8747e12ef308f141e5ccb7816237a5b3d7984bfd",
+                            "analyticsUri": "",
+                            "width": 300,
+                            "height": 200,
+                            "renditionType": "thumb_wm"
+                        },
+                        "mediaMedium": {
+                            "uri": "https://wdw-photopass-media-prod.s3.amazonaws.com/dea60d03-9be7-4e90-925b-54d0a831b638/61876080815660-99748143-20261024T000000-914826-DSC1916_medium_wm.JPG?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20260216T184041Z&X-Amz-SignedHeaders=host&X-Amz-Expires=14400&X-Amz-Credential=NWNKOF4MOEM6GMYNW8Z7%2F20260217%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=e3200d686345da37f7304c0eb90effab6ba760fcb59f77bcbe11e1b88817b607",
+                            "analyticsUri": "",
+                            "width": 1280,
+                            "height": 853,
+                            "renditionType": "medium_wm"
+                        },
+                        "mediaBase": null,
+                        "guestMediaModifiedDate": "2025-05-11T00:00:00Z",
+                        "artCardThumb": null,
+                        "artCardMedium": null,
+                        "mlid": []
+                    },
+                    {
+                        "mediaId": "0182033430",
+                        "guestMediaId": 5340786499,
+                        "mediaCategory": "ROVER",
+                        "mediaType": "PICTURE",
+                        "captureDate": "2025-09-11T00:00:00Z",
+                        "expirationDate": "2025-06-03T00:00:00Z",
+                        "ownedBy": null,
+                        "guestEntitledToMedia": false,
+                        "showInProductBuilder": false,
+                        "favorite": false,
+                        "hide": false,
+                        "mimeType": "image/jpeg",
+                        "subjects": [
+                            "Goofy",
+                            "Donald Duck",
+                            "Pluto"
+                        ],
+                        "mediaThumb": {
+                            "uri": "https://wdw-photopass-media-prod.s3.amazonaws.com/dea60d03-9be7-4e90-925b-54d0a831b638/85730418377695-97678944-20250508T000000-398210-DSC0533_thumb_wm.JPG?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20260216T184041Z&X-Amz-SignedHeaders=host&X-Amz-Expires=14400&X-Amz-Credential=X4E622AV0YUL3TGPJP1B%2F20260217%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=27f2bd802eecd43407f35f111b459187824cbd1c9cbadddd6bad16329f6c210a",
+                            "analyticsUri": "",
+                            "width": 300,
+                            "height": 200,
+                            "renditionType": "thumb_wm"
+                        },
+                        "mediaMedium": {
+                            "uri": "https://wdw-photopass-media-prod.s3.amazonaws.com/dea60d03-9be7-4e90-925b-54d0a831b638/92019758559824-79054959-20260412T000000-412364-DSC4357_medium_wm.JPG?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20260216T184041Z&X-Amz-SignedHeaders=host&X-Amz-Expires=14400&X-Amz-Credential=2GQT173G0SQTOCT83N2P%2F20260217%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=68e7a3fc7c23cc11d7e2bf28e381140c4deb8aa9c1e8d61e645883f865da0d8a",
+                            "analyticsUri": "",
+                            "width": 1280,
+                            "height": 853,
+                            "renditionType": "medium_wm"
+                        },
+                        "mediaBase": null,
+                        "guestMediaModifiedDate": "2026-03-28T00:00:00Z",
+                        "artCardThumb": null,
+                        "artCardMedium": null,
+                        "mlid": []
+                    },
+                    {
+                        "mediaId": "8229488708",
+                        "guestMediaId": 8920899253,
+                        "mediaCategory": "ROVER",
+                        "mediaType": "PICTURE",
+                        "captureDate": "2025-08-30T00:00:00Z",
+                        "expirationDate": "2026-05-07T00:00:00Z",
+                        "ownedBy": null,
+                        "guestEntitledToMedia": false,
+                        "showInProductBuilder": false,
+                        "favorite": false,
+                        "hide": false,
+                        "mimeType": "image/jpeg",
+                        "subjects": [
+                            "Goofy",
+                            "Donald Duck",
+                            "Pluto"
+                        ],
+                        "mediaThumb": {
+                            "uri": "https://wdw-photopass-media-prod.s3.amazonaws.com/dea60d03-9be7-4e90-925b-54d0a831b638/30808656289140-03653425-20260314T000000-784383-DSC7044_thumb_wm.JPG?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20260216T184041Z&X-Amz-SignedHeaders=host&X-Amz-Expires=14400&X-Amz-Credential=EBMODL1PLNMXOFB4V6IU%2F20260217%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=77ceccc56fcce340a97c282969e864b635c7461f3653d9e1f855c613647bdf6f",
+                            "analyticsUri": "",
+                            "width": 200,
+                            "height": 300,
+                            "renditionType": "thumb_wm"
+                        },
+                        "mediaMedium": {
+                            "uri": "https://wdw-photopass-media-prod.s3.amazonaws.com/dea60d03-9be7-4e90-925b-54d0a831b638/12329057954778-63769246-20260506T000000-110581-DSC4374_medium_wm.JPG?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20260216T184041Z&X-Amz-SignedHeaders=host&X-Amz-Expires=14400&X-Amz-Credential=B1LOKN7AWPEV3OJ8QBUB%2F20260217%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=42052fc1854eb1405d50aa843a8cd16b0792ded3950c6d6e6544240ef5e2e03a",
+                            "analyticsUri": "",
+                            "width": 853,
+                            "height": 1280,
+                            "renditionType": "medium_wm"
+                        },
+                        "mediaBase": null,
+                        "guestMediaModifiedDate": "2025-06-27T00:00:00Z",
+                        "artCardThumb": null,
+                        "artCardMedium": null,
+                        "mlid": []
+                    },
+                    {
+                        "mediaId": "2888011473",
+                        "guestMediaId": 952592580,
+                        "mediaCategory": "ROVER",
+                        "mediaType": "PICTURE",
+                        "captureDate": "2025-08-29T00:00:00Z",
+                        "expirationDate": "2025-07-11T00:00:00Z",
+                        "ownedBy": null,
+                        "guestEntitledToMedia": false,
+                        "showInProductBuilder": false,
+                        "favorite": false,
+                        "hide": false,
+                        "mimeType": "image/jpeg",
+                        "subjects": [
+                            "Goofy",
+                            "Donald Duck",
+                            "Pluto"
+                        ],
+                        "mediaThumb": {
+                            "uri": "https://wdw-photopass-media-prod.s3.amazonaws.com/dea60d03-9be7-4e90-925b-54d0a831b638/30608001367725-80516533-20250315T000000-486389-DSC8641_thumb_wm.JPG?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20260216T184041Z&X-Amz-SignedHeaders=host&X-Amz-Expires=14400&X-Amz-Credential=9HE0RNNVT80UQN5UN135%2F20260217%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=f91db12e075dd0d281b21ee668ea919f4cdab18cd5d7f3cb8afdc629fc3122f9",
+                            "analyticsUri": "",
+                            "width": 200,
+                            "height": 300,
+                            "renditionType": "thumb_wm"
+                        },
+                        "mediaMedium": {
+                            "uri": "https://wdw-photopass-media-prod.s3.amazonaws.com/dea60d03-9be7-4e90-925b-54d0a831b638/52948720907117-71256426-20251023T000000-150314-DSC7645_medium_wm.JPG?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20260216T184041Z&X-Amz-SignedHeaders=host&X-Amz-Expires=14400&X-Amz-Credential=P8MQ062R0AKHUY8ASJ0L%2F20260217%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=cb282328c018d8a462a24b6680fe64133fa71cd1486cf4d0fa0b865c9c6f335e",
+                            "analyticsUri": "",
+                            "width": 853,
+                            "height": 1280,
+                            "renditionType": "medium_wm"
+                        },
+                        "mediaBase": null,
+                        "guestMediaModifiedDate": "2026-07-05T00:00:00Z",
+                        "artCardThumb": null,
+                        "artCardMedium": null,
+                        "mlid": []
+                    },
+                    {
+                        "mediaId": "7853777550",
+                        "guestMediaId": 2106890493,
+                        "mediaCategory": "ROVER",
+                        "mediaType": "PICTURE",
+                        "captureDate": "2025-04-23T00:00:00Z",
+                        "expirationDate": "2026-08-11T00:00:00Z",
+                        "ownedBy": null,
+                        "guestEntitledToMedia": false,
+                        "showInProductBuilder": false,
+                        "favorite": false,
+                        "hide": false,
+                        "mimeType": "image/jpeg",
+                        "subjects": [
+                            "Goofy",
+                            "Donald Duck",
+                            "Pluto"
+                        ],
+                        "mediaThumb": {
+                            "uri": "https://wdw-photopass-media-prod.s3.amazonaws.com/dea60d03-9be7-4e90-925b-54d0a831b638/96845741869158-75010382-20250507T000000-730760-DSC2589_thumb_wm.JPG?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20260216T184041Z&X-Amz-SignedHeaders=host&X-Amz-Expires=14400&X-Amz-Credential=WP3ZNTPOUEUIZKMS4NRA%2F20260217%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=687182038d2e606a6959dad2dc83290f14dd54d2d277233d7f188f6099059174",
+                            "analyticsUri": "",
+                            "width": 200,
+                            "height": 300,
+                            "renditionType": "thumb_wm"
+                        },
+                        "mediaMedium": {
+                            "uri": "https://wdw-photopass-media-prod.s3.amazonaws.com/dea60d03-9be7-4e90-925b-54d0a831b638/38800309434920-71859405-20250215T000000-916079-DSC7460_medium_wm.JPG?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20260216T184041Z&X-Amz-SignedHeaders=host&X-Amz-Expires=14400&X-Amz-Credential=ZR2ZO5EB2HL25YHA2OVM%2F20260217%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=9de6d2f75a4c50feeb308a06cb1d9919cb668eb541b232b9a704b4e174128207",
+                            "analyticsUri": "",
+                            "width": 853,
+                            "height": 1280,
+                            "renditionType": "medium_wm"
+                        },
+                        "mediaBase": null,
+                        "guestMediaModifiedDate": "2026-02-16T00:00:00Z",
+                        "artCardThumb": null,
+                        "artCardMedium": null,
+                        "mlid": []
+                    }
+                ]
+            }
+        ],
+        "mediaReadySet": []
+    },
+    "prevPage": null,
+    "nextPage": null
+}
